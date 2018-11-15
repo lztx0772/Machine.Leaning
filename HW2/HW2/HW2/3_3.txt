@@ -1,0 +1,51 @@
+C :0.01
+support vectors	2517
+train_time 4.72
+train_err 25.02%
+dev_err 23.94%
+C :0.1
+support vectors	2525
+train_time 4.72
+train_err 21.86%
+dev_err 20.89%
+C :1
+support vectors	2156
+train_time 4.30
+train_err 17.12%
+dev_err 16.64%
+C :2
+support vectors	2081
+train_time 4.22
+train_err 16.72%
+dev_err 16.51%
+C :5
+support vectors	2034
+train_time 4.14
+train_err 15.88%
+dev_err 16.05%
+C :10
+support vectors	1995
+train_time 4.13
+train_err 15.20%
+dev_err 15.92%
+C :100
+support vectors	1999
+train_time 5.64
+train_err 12.42%
+dev_err 15.92%
+C :200
+support vectors	2043
+train_time 6.59
+train_err 10.46%
+dev_err 16.64%
+C :300
+support vectors	2055
+train_time 7.47
+train_err 9.26%
+dev_err 16.58%
+C :400
+support vectors	2048
+train_time 8.28
+train_err 8.54%
+dev_err 16.84%
+
